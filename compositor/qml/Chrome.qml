@@ -16,8 +16,7 @@
 **
 ****************************************************************************/
 
-import QtQuick 2.6
-import Qt.labs.handlers 1.0
+import QtQuick 2.12
 import QtWayland.Compositor 1.0
 import QtGraphicalEffects 1.0
 import com.theqtcompany.wlcompositor 1.0
